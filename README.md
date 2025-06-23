@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DeepLearning**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Medical Related Projects**
 
 - 💬 Ask me about **Machine Learning**
 
